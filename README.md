@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmidDeldar
 - 👀 I’m interested in Nestjs
-- 📫 How to reach me omiddeldar1380.od@gmail.com,  <a href="https://www.linkedin.com/in/omiddeldar"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="50" height="50"></a>
+- 📫 How to reach me omiddeldar1380.od@gmail.com,  <a href="https://www.linkedin.com/in/omiddeldar"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="40" height="20"></a>
 
 Languages :<br>
 <div>
